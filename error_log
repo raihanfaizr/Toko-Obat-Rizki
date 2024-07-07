@@ -1,0 +1,133 @@
+[20-Aug-2023 00:09:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raig8214/public_html/toko-obat/koneksi.php on line 8
+[22-Sep-2023 13:59:41 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[22-Sep-2023 13:59:47 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[22-Sep-2023 13:59:47 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[22-Sep-2023 13:59:47 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[22-Sep-2023 13:59:47 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[22-Sep-2023 13:59:55 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[22-Sep-2023 13:59:55 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[22-Sep-2023 13:59:55 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[22-Sep-2023 13:59:55 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[22-Sep-2023 14:00:07 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[22-Sep-2023 14:00:07 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[22-Sep-2023 14:00:07 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[22-Sep-2023 14:00:07 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[22-Sep-2023 14:00:07 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[15-Jan-2024 16:05:45 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[15-Jan-2024 16:05:56 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[15-Jan-2024 16:05:56 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[15-Jan-2024 16:05:56 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[15-Jan-2024 16:05:56 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[15-Jan-2024 16:05:56 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[15-Jan-2024 16:06:04 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[15-Jan-2024 16:06:04 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[15-Jan-2024 16:06:04 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[15-Jan-2024 16:06:04 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[15-Jan-2024 16:06:04 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[19-Jan-2024 15:37:04 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[24-Jan-2024 13:22:12 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[24-Jan-2024 17:39:10 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[18-Mar-2024 10:33:08 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[18-Mar-2024 10:33:28 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[18-Mar-2024 11:48:37 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[18-Mar-2024 11:49:10 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[18-Mar-2024 11:49:10 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[18-Mar-2024 11:49:10 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[18-Mar-2024 11:49:10 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[18-Mar-2024 11:49:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[18-Mar-2024 11:49:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[18-Mar-2024 11:49:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[18-Mar-2024 11:49:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[26-Apr-2024 07:55:55 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[26-Apr-2024 07:56:23 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[26-Apr-2024 07:56:24 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[26-Apr-2024 07:56:38 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[26-Apr-2024 07:56:41 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[26-Apr-2024 08:03:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[26-Apr-2024 08:03:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[26-Apr-2024 08:03:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[26-Apr-2024 08:03:18 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[26-Apr-2024 08:06:41 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[26-Apr-2024 08:06:51 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[26-Apr-2024 08:07:38 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[29-May-2024 14:48:57 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[29-May-2024 14:49:24 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:49:24 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:49:24 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:49:24 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[29-May-2024 14:49:46 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[29-May-2024 14:50:30 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[29-May-2024 14:50:31 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[29-May-2024 14:51:50 Asia/Jakarta] PHP Warning:  Undefined array key "jenis-obat" in /home/raig8214/public_html/toko-obat/add-barang.php on line 11
+[29-May-2024 14:51:50 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/raig8214/public_html/toko-obat/add-barang.php on line 11
+[29-May-2024 14:52:08 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:52:08 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:52:08 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:52:08 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:52:14 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[29-May-2024 14:52:16 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[29-May-2024 14:52:16 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:52:16 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:52:16 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:52:16 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[29-May-2024 14:52:28 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[29-May-2024 14:52:29 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:52:29 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:52:29 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:52:29 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[29-May-2024 14:52:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:52:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:52:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:52:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[29-May-2024 14:52:58 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[29-May-2024 14:52:58 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[29-May-2024 14:52:58 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[29-May-2024 14:52:58 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[29-May-2024 14:52:58 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[12-Jun-2024 14:33:17 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[12-Jun-2024 14:34:32 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[12-Jun-2024 14:34:41 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[12-Jun-2024 14:34:41 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[12-Jun-2024 14:34:41 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[12-Jun-2024 14:34:41 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[12-Jun-2024 14:34:41 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[12-Jun-2024 14:34:48 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[12-Jun-2024 14:35:07 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[07-Jul-2024 13:48:19 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[07-Jul-2024 19:28:04 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[07-Jul-2024 19:28:37 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[07-Jul-2024 19:28:46 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[07-Jul-2024 19:28:46 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[07-Jul-2024 19:28:46 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[07-Jul-2024 19:28:46 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[07-Jul-2024 19:28:46 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[07-Jul-2024 19:28:51 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[07-Jul-2024 19:28:51 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[07-Jul-2024 19:28:51 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[07-Jul-2024 19:28:51 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[07-Jul-2024 19:28:51 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[07-Jul-2024 19:29:20 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[07-Jul-2024 19:29:20 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[07-Jul-2024 19:29:20 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[07-Jul-2024 19:29:20 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[07-Jul-2024 19:29:20 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[07-Jul-2024 19:29:21 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[07-Jul-2024 19:44:56 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[07-Jul-2024 21:10:21 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/index.php on line 48
+[07-Jul-2024 21:11:34 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[07-Jul-2024 21:11:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[07-Jul-2024 21:11:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[07-Jul-2024 21:11:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[07-Jul-2024 21:11:34 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
+[07-Jul-2024 21:56:52 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raig8214/public_html/toko-obat/penjualan.php on line 70
+[07-Jul-2024 21:56:52 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 458
+[07-Jul-2024 21:56:52 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 461
+[07-Jul-2024 21:56:52 Asia/Jakarta] PHP Warning:  Undefined variable $bayar in /home/raig8214/public_html/toko-obat/penjualan.php on line 469
+[07-Jul-2024 21:56:52 Asia/Jakarta] PHP Warning:  Undefined variable $bayar_value in /home/raig8214/public_html/toko-obat/penjualan.php on line 470
